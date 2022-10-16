@@ -34,3 +34,6 @@ class Queue {
 module.exports = {
   Queue
 };
+
+
+//   npm run test test/remove-from-list.test.js
